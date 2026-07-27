@@ -8,10 +8,10 @@ Este repositorio funciona como mi portafolio personal, donde comparto proyectos 
 
 ## Índice
 
-- Información general
-- Proyectos destacados
-- Interfaz
-- Información de contacto
+- [Información general](#-información-general)
+- [Proyectos destacados](#-proyectos-destacados)
+- [Interfaz](#-interfaz)
+- [Información de contacto](#-información-de-contacto)
 
 ---
 
@@ -62,7 +62,7 @@ Finalizado
 
 ---
 
-### 🗄️ Sistema de Base de Datos IGLAI
+### Sistema de Base de Datos IGLAI
 
 **Repositorio:** https://github.com/polipopi/PROYECTO-BD-IGLAI
 
@@ -84,7 +84,7 @@ Finalizado (Fines Académicos).
 
 ---
 
-### ♻️ Green Oil
+### Green Oil
 **Repositorio:** https://github.com/polipopi/App_GreenOil.git
 
 **Descripción:**  
@@ -119,13 +119,13 @@ Las siguientes imágenes ilustran algunas interfaces y funcionalidades de los pr
 
 ---
 
-## 🎯 Objetivo Profesional
+## Objetivo Profesional
 
 Continuar desarrollando habilidades en ingeniería de software, bases de datos y desarrollo web, participando en proyectos que me permitan crecer profesionalmente y aportar soluciones tecnológicas de valor.
 
 ---
 
-## 📫 Información de contacto
+## Información de contacto
 
 - LinkedIn: https://www.linkedin.com/in/paula-bastidas-lucin-b9333b277/
 - GitHub: https://github.com/polipopi
