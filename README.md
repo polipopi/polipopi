@@ -18,11 +18,9 @@ Este repositorio funciona como mi portafolio personal, donde comparto proyectos 
 ## Información general
 
 **Formación académica:**  
-ESPOL 
-Ing. Sistemas (2023 - Actualidad)
-Academia Naval Almirante Illingworth (Bachiller - Ciencias de la Computación)
-AITEC & Rosetta Stone
-Inglés B1
+- ESPOL - Ing. Sistemas (2023 - Actualidad)
+- Academia Naval Almirante Illingworth (Bachiller - Ciencias de la Computación)
+- AITEC & Rosetta Stone (Inglés B1)
 
 
 **Áreas de interés:**  
