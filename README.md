@@ -8,10 +8,11 @@ Este repositorio funciona como mi portafolio personal, donde comparto proyectos 
 
 ## Índice
 
-- [Información general](#-información-general)
-- [Proyectos destacados](#-proyectos-destacados)
-- [Interfaz](#-interfaz)
-- [Información de contacto](#-información-de-contacto)
+- [Información general](#información-general)
+- [Proyectos destacados](#proyectos-destacados)
+- [Interfaz](#interfaz)
+- [Objetivo profesional](#objetivo-profesional)
+- [Información de contacto](#información-de-contacto)
 
 ---
 
