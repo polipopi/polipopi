@@ -1,4 +1,3 @@
-# Perfil
 # Hola, soy Paula Bastidas
 
 Estudiante de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL).
