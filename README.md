@@ -141,8 +141,10 @@ Las siguientes imágenes ilustran algunas interfaces y funcionalidades de los pr
 
 ### Proyecto POO
 <img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/92c1dd15-fd6b-4513-8a7b-2b23e9f75417" />
+
 ### Proyecto Museo Municipal de Guayaquil
 <img width="1325" height="612" alt="image" src="https://github.com/user-attachments/assets/b1199b80-c775-4f24-93f5-62814eddbd3d" />
+
 ### Proyecto Green Oil
 <img width="1337" height="617" alt="image" src="https://github.com/user-attachments/assets/16095a6e-a4d1-4b8c-91dc-a9c4e98c4348" />
 
