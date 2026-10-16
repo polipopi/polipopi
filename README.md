@@ -84,6 +84,34 @@ Finalizado (Fines Académicos).
 - Administración de bases de datos relacionales.
 
 ---
+Página Web del Museo Municipal de Guayaquil
+
+Repositorio: https://github.com/polipopi/MuseoMunicipal_Web
+
+Descripción:
+Desarrollo de una página web para el Museo Municipal de Guayaquil, con información sobre su historia, actividades culturales, galerías y obras. El proyecto busca facilitar el acceso a la información del museo y dar a conocer sus eventos a los visitantes.
+
+Tecnologías utilizadas:
+HTML, CSS, JavaScript.
+
+Estado:
+En desarrollo, plantilla (Phanthon)
+
+Funcionalidades principales:
+
+-Información sobre la historia del museo.
+
+-Sección de actividades y obras culturales.
+
+-Galería de imágenes y videos.
+
+-Información de contacto y ubicación.
+
+-Navegación entre las diferentes secciones del sitio web.
+
+Trabajo realizado:
+Diseño y desarrollo de interfaces web, organización de contenido y trabajo colaborativo mediante Git y GitHub utilizando codespace.
+---
 
 ### Green Oil
 **Repositorio:** https://github.com/polipopi/App_GreenOil.git
@@ -113,7 +141,8 @@ Las siguientes imágenes ilustran algunas interfaces y funcionalidades de los pr
 
 ### Proyecto POO
 <img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/92c1dd15-fd6b-4513-8a7b-2b23e9f75417" />
-
+### Proyecto Museo Municipal de Guayaquil
+<img width="1325" height="612" alt="image" src="https://github.com/user-attachments/assets/b1199b80-c775-4f24-93f5-62814eddbd3d" />
 ### Proyecto Green Oil
 <img width="1337" height="617" alt="image" src="https://github.com/user-attachments/assets/16095a6e-a4d1-4b8c-91dc-a9c4e98c4348" />
 
